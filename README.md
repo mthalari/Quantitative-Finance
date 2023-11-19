@@ -9,6 +9,6 @@ Welcome to the Quantitative Finance project! This project is dedicated to the ex
 - **Python Implementation:** Uncover and implement various quantitative finance concepts using the versatile Python programming language.
 - **C++ Integration:** Enhance performance by implementing critical components in C++ for efficient execution.
 - **Financial Mathematics:** Apply mathematical models to gain insights into market behavior, pricing, and risk assessment.
-- **Probability Calculus:** Utilize probability calculus to quantify and manage risks associated with financial instruments.
+- **Probability and Calculus:** Utilize probability and calculus to quantify and manage risks associated with financial instruments.
 
 Feel free to explore the project, run analyses, and contribute to the growth of quantitative finance knowledge within our community. Happy coding!
