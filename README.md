@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Quantitative Finance project! This project is dedicated to the exploration and application of quantitative finance concepts using Python, C++, and advanced mathematical models. Our goal is to analyze financial markets, implement risk management strategies, and leverage probability calculus to make informed decisions in the realm of finance.
+Welcome to the Quantitative developmentt project! This project is dedicated to the exploration and application of quantitative finance concepts using Python, C++, and advanced mathematical models. my goal is to analyze financial markets, implement risk management strategies, and leverage probability calculus to make informed decisions in the realm of finance.
 
 ### Key Highlights
 
